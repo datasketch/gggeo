@@ -2,5 +2,6 @@
 
 export(gg_bubbles)
 export(gg_choropleth)
+export(theme_nothing)
 importFrom(ggplot2,geom_sf)
 importFrom(ggplot2,ggplot)

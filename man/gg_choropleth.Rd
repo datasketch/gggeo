@@ -18,7 +18,8 @@ gg_choropleth(
   map_name = NULL,
   var = NULL,
   opts = NULL,
-  filter = NULL
+  filter = NULL,
+  ...
 )
 }
 \arguments{

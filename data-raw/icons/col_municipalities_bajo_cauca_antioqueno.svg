@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='144.00pt' height='144.00pt' viewBox='0 0 144.00 144.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA='>
+    <rect x='0.00' y='0.00' width='144.00' height='144.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMC4wMHwxNDQuMDB8MjMuMzB8MTIwLjcw'>
+    <rect x='0.00' y='23.30' width='144.00' height='97.40' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MjMuMzB8MTIwLjcw)'>
+<rect x='0.00' y='23.30' width='144.00' height='97.40' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA=)'>
+</g>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MjMuMzB8MTIwLjcw)'>
+<path d='M 107.62 27.73 L 115.32 35.27 L 118.23 37.60 L 120.77 40.48 L 125.40 44.53 L 129.97 49.23 L 131.53 51.41 L 131.48 56.01 L 132.00 61.78 L 133.82 67.04 L 137.14 70.13 L 137.45 71.29 L 133.82 75.95 L 129.14 79.13 L 127.63 86.32 L 124.15 94.62 L 124.31 97.10 L 125.55 98.16 L 126.80 100.43 L 126.54 101.65 L 122.70 103.07 L 121.81 102.66 L 118.59 98.66 L 113.65 98.41 L 110.17 95.43 L 107.10 88.34 L 105.23 85.86 L 103.99 82.42 L 106.27 79.94 L 107.94 77.21 L 109.34 73.01 L 109.24 70.08 L 107.26 70.08 L 105.60 67.45 L 105.70 61.48 L 104.04 55.10 L 103.78 48.98 L 104.71 45.18 L 106.53 43.21 L 106.69 41.29 L 109.50 37.29 L 106.84 33.55 L 106.74 31.37 L 108.25 28.94 L 107.62 27.73 Z' style='fill-rule: evenodd; fill: #E5E5E5; stroke-width: 1.07; stroke: #999999; stroke-linecap: butt;' />
+<path d='M 66.67 39.21 L 72.44 39.16 L 77.17 38.56 L 91.25 37.39 L 93.07 38.25 L 95.26 42.35 L 93.64 43.82 L 93.85 46.50 L 95.46 47.97 L 95.83 49.79 L 94.74 51.86 L 94.79 54.34 L 98.43 54.39 L 97.96 58.74 L 99.62 62.39 L 103.26 62.74 L 105.70 61.48 L 105.60 67.45 L 107.26 70.08 L 106.17 70.63 L 103.73 73.72 L 99.15 73.47 L 96.04 73.97 L 93.54 78.32 L 90.42 80.70 L 88.97 80.60 L 81.38 84.85 L 81.80 82.88 L 81.02 80.70 L 83.41 76.91 L 83.87 72.20 L 82.99 66.38 L 80.70 64.01 L 77.74 62.94 L 72.86 59.86 L 70.88 56.62 L 72.34 53.13 L 70.57 49.94 L 66.00 46.15 L 62.26 45.24 L 62.88 43.06 L 65.32 39.92 L 66.67 39.21 Z' style='fill-rule: evenodd; fill: #E5E5E5; stroke-width: 1.07; stroke: #999999; stroke-linecap: butt;' />
+<path d='M 55.86 49.43 L 58.41 48.62 L 60.28 45.44 L 62.26 45.24 L 66.00 46.15 L 70.57 49.94 L 72.34 53.13 L 70.88 56.62 L 72.86 59.86 L 77.74 62.94 L 80.70 64.01 L 82.99 66.38 L 83.87 72.20 L 83.41 76.91 L 81.02 80.70 L 81.80 82.88 L 81.38 84.85 L 81.69 86.12 L 80.76 93.50 L 83.46 96.59 L 90.01 101.09 L 88.92 102.36 L 85.17 102.46 L 84.24 100.59 L 82.73 99.73 L 78.47 101.75 L 76.44 101.70 L 70.62 104.18 L 70.62 101.24 L 67.56 97.40 L 62.88 94.51 L 58.98 91.18 L 53.06 87.68 L 52.75 85.10 L 51.24 80.85 L 48.33 79.39 L 45.26 76.40 L 42.04 74.48 L 38.97 70.33 L 42.20 63.75 L 41.78 60.72 L 44.01 60.36 L 52.64 56.97 L 54.04 56.01 L 55.24 50.14 L 55.86 49.43 Z' style='fill-rule: evenodd; fill: #E5E5E5; stroke-width: 1.07; stroke: #999999; stroke-linecap: butt;' />
+<path d='M 31.13 67.80 L 33.05 69.52 L 35.86 70.53 L 38.97 70.33 L 42.04 74.48 L 45.26 76.40 L 48.33 79.39 L 51.24 80.85 L 52.75 85.10 L 53.06 87.68 L 58.98 91.18 L 62.88 94.51 L 67.56 97.40 L 70.62 101.24 L 70.62 104.18 L 68.86 109.24 L 67.61 111.31 L 66.10 115.46 L 61.63 115.51 L 59.14 116.27 L 59.09 113.29 L 60.75 106.66 L 63.40 103.12 L 60.18 100.84 L 58.10 98.21 L 55.14 99.52 L 53.73 101.65 L 49.52 103.52 L 44.17 103.82 L 39.08 103.17 L 37.67 103.37 L 36.17 106.35 L 34.87 105.85 L 34.24 103.42 L 31.23 100.74 L 24.27 100.74 L 18.24 99.98 L 6.55 100.89 L 9.51 97.45 L 12.94 91.88 L 17.87 85.76 L 20.01 82.22 L 21.82 76.65 L 22.40 73.11 L 23.64 70.99 L 27.13 68.51 L 31.13 67.80 Z' style='fill-rule: evenodd; fill: #E5E5E5; stroke-width: 1.07; stroke: #999999; stroke-linecap: butt;' />
+<path d='M 107.26 70.08 L 109.24 70.08 L 109.34 73.01 L 107.94 77.21 L 106.27 79.94 L 103.99 82.42 L 105.23 85.86 L 107.10 88.34 L 110.17 95.43 L 113.65 98.41 L 118.59 98.66 L 121.81 102.66 L 122.70 103.07 L 117.03 104.38 L 115.68 105.09 L 110.74 105.95 L 108.92 107.42 L 100.71 109.04 L 96.87 110.30 L 95.15 111.87 L 97.13 108.43 L 95.67 104.99 L 97.28 103.32 L 97.18 101.85 L 94.22 97.96 L 92.76 100.59 L 90.01 101.09 L 83.46 96.59 L 80.76 93.50 L 81.69 86.12 L 81.38 84.85 L 88.97 80.60 L 90.42 80.70 L 93.54 78.32 L 96.04 73.97 L 99.15 73.47 L 103.73 73.72 L 106.17 70.63 L 107.26 70.08 Z' style='fill-rule: evenodd; fill: #E5E5E5; stroke-width: 1.07; stroke: #999999; stroke-linecap: butt;' />
+<path d='M 35.86 70.53 L 38.97 70.33 L 42.20 63.75 L 41.78 60.72 L 44.01 60.36 L 54.04 56.01 L 55.24 50.14 L 58.41 48.62 L 60.28 45.44 L 62.26 45.24 L 62.88 43.06 L 65.32 39.92 L 66.67 39.21 L 91.25 37.39 L 93.07 38.25 L 95.26 42.35 L 93.64 43.82 L 93.85 46.50 L 95.46 47.97 L 95.83 49.79 L 94.74 51.86 L 94.79 54.34 L 98.43 54.39 L 97.96 58.74 L 99.62 62.39 L 103.26 62.74 L 105.70 61.48 L 104.04 55.10 L 103.78 48.98 L 104.71 45.18 L 106.53 43.21 L 106.69 41.29 L 109.50 37.29 L 106.84 33.55 L 106.74 31.37 L 108.25 28.94 L 107.62 27.73 L 125.40 44.53 L 131.53 51.41 L 132.00 61.78 L 133.82 67.04 L 137.14 70.13 L 137.45 71.29 L 133.82 75.95 L 129.14 79.13 L 127.63 86.32 L 124.15 94.62 L 124.31 97.10 L 126.80 100.43 L 126.54 101.65 L 115.68 105.09 L 110.74 105.95 L 108.92 107.42 L 100.71 109.04 L 96.87 110.30 L 95.15 111.87 L 97.13 108.43 L 95.67 104.99 L 97.28 103.32 L 97.18 101.85 L 94.22 97.96 L 92.76 100.59 L 90.01 101.09 L 88.92 102.36 L 85.17 102.46 L 84.24 100.59 L 82.73 99.73 L 78.47 101.75 L 76.44 101.70 L 70.62 104.18 L 66.10 115.46 L 61.63 115.51 L 59.14 116.27 L 59.09 113.29 L 60.75 106.66 L 63.40 103.12 L 60.18 100.84 L 58.10 98.21 L 55.14 99.52 L 53.73 101.65 L 49.52 103.52 L 37.67 103.37 L 36.17 106.35 L 34.87 105.85 L 34.24 103.42 L 31.23 100.74 L 24.27 100.74 L 18.24 99.98 L 6.55 100.89 L 20.01 82.22 L 22.40 73.11 L 23.64 70.99 L 27.13 68.51 L 31.13 67.80 L 33.05 69.52 L 35.86 70.53 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA=)'>
+<polyline points='0.00,118.76 0.00,118.76 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,99.58 0.00,99.58 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,80.39 0.00,80.39 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,61.20 0.00,61.20 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,42.01 0.00,42.01 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='10.21,120.70 10.21,120.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='29.40,120.70 29.40,120.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='48.58,120.70 48.58,120.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='67.77,120.70 67.77,120.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='86.96,120.70 86.96,120.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='106.15,120.70 106.15,120.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='125.34,120.70 125.34,120.70 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+</g>
+</svg>

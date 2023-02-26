@@ -10,10 +10,13 @@
 #' @examples
 #' gg_choropleth_GcdNum(sample_data("Gcd-Num", nrow = 10))
 gg_choropleth <- function(data = NULL, map_name = NULL, var = NULL,
-                          opts = NULL, filter = NULL){
+                          opts = NULL, filter = NULL, ...){
 
 
   col <- geodato::parse_col(data, var)
+
+
+  opts <- dsvizopts::merge_dsviz_options(...)
 
   #opts <- dsvizopts::merge_dsviz_options(...)
   #l <- geomagic_prep(data = data, opts = opts, by = "id")

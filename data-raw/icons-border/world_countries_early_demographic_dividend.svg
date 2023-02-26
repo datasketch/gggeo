@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='144.00pt' height='144.00pt' viewBox='0 0 144.00 144.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA='>
+    <rect x='0.00' y='0.00' width='144.00' height='144.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMC4wMHwxNDQuMDB8NDUuNzd8OTguMjM='>
+    <rect x='0.00' y='45.77' width='144.00' height='52.46' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8NDUuNzd8OTguMjM=)'>
+<rect x='0.00' y='45.77' width='144.00' height='52.46' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA=)'>
+</g>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8NDUuNzd8OTguMjM=)'>
+<path d='M 37.53 83.50 L 28.65 95.84 L 31.05 81.67 L 24.65 70.04 L 37.53 83.50 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+<path d='M 33.85 68.22 L 31.33 70.03 L 28.27 65.13 L 33.56 65.18 L 33.85 68.22 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+<path d='M 22.30 65.08 L 6.55 54.52 L 14.22 55.87 L 17.59 61.54 L 21.26 59.87 L 22.30 65.08 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+<path d='M 79.46 84.53 L 72.78 87.14 L 69.55 78.86 L 79.91 78.60 L 79.46 84.53 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+<path d='M 85.06 65.84 L 83.11 68.74 L 79.95 66.58 L 82.33 63.17 L 85.06 65.84 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+<path d='M 88.90 62.98 L 85.07 64.22 L 80.90 55.98 L 81.83 59.67 L 65.47 61.14 L 59.56 56.44 L 66.98 52.30 L 68.46 55.65 L 80.55 55.17 L 81.49 52.43 L 76.61 50.88 L 90.19 52.43 L 92.43 48.16 L 100.53 52.15 L 93.55 55.83 L 100.64 52.38 L 111.65 56.56 L 116.44 62.97 L 114.48 65.29 L 111.72 60.77 L 111.99 65.52 L 108.11 58.97 L 101.60 66.45 L 99.29 59.54 L 84.72 52.16 L 82.94 54.72 L 91.01 59.67 L 88.90 62.98 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+<path d='M 133.33 71.93 L 137.45 75.57 L 127.85 71.12 L 133.33 71.93 Z' style='fill-rule: evenodd; stroke-width: 3.20; stroke: #444444; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHwxNDQuMDB8MC4wMHwxNDQuMDA=)'>
+<polyline points='0.00,89.98 0.00,89.98 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,80.20 0.00,80.20 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,70.43 0.00,70.43 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,60.65 0.00,60.65 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='0.00,50.87 0.00,50.87 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='14.92,98.23 14.92,98.23 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='39.36,98.23 39.36,98.23 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='63.81,98.23 63.81,98.23 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='88.25,98.23 88.25,98.23 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='112.69,98.23 112.69,98.23 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='137.14,98.23 137.14,98.23 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+</g>
+</svg>

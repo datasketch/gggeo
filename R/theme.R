@@ -1,12 +1,15 @@
 
-
+#' @export
 theme_nothing <- function (base_size = 12, legend = TRUE) {
   if (legend) {
-    theme(axis.text = element_blank(), axis.title = element_blank(),
-          panel.background = element_blank(), panel.grid.major = element_blank(),
-          panel.grid.minor = element_blank(), axis.ticks.length = unit(0,
-                                                                       "cm"), panel.spacing = unit(0, "lines"), plot.margin = unit(c(0,
-                                                                                                                                     0, 0, 0), "lines"))
+    theme(axis.text = element_blank(),
+          axis.title = element_blank(),
+          panel.background = element_blank(),
+          panel.grid.major = element_blank(),
+          panel.grid.minor = element_blank(),
+          axis.ticks.length = unit(0, "cm"),
+          panel.spacing = unit(0, "lines"),
+          plot.margin = unit(c(0, 0, 0, 0), "lines"))
   }
   else {
     theme(line = element_blank(), rect = element_blank(),
